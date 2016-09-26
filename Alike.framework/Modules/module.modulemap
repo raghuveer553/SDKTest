@@ -1,5 +1,5 @@
-framework module PiQAlike {
-  umbrella header "PiQAlike.h"
+framework module Alike {
+  umbrella header "Alike.h"
 
   export *
   module * { export * }

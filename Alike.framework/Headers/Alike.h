@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char PiQAlikeVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PiQAlike/PublicHeader.h>
 
-#import <PiQAlike/PiQAlikeClient.h>
+#import <Alike/PiQAlikeClient.h>
